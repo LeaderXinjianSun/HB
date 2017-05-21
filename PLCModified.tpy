@@ -4,7 +4,7 @@
 	<ProjectInfo>
 		<Path>D:\工作\WorkwithGit\HB\HB\PLCModified.pro</Path>
 		<IsLibrary>false</IsLibrary>
-		<ChangeDate>2017-05-19T16:06:43</ChangeDate>
+		<ChangeDate>2017-05-21T22:24:00</ChangeDate>
 		<Library>
 			<Name>STANDARD.LIB</Name>
 			<Path>C:\TwinCAT\PLC\LIB\STANDARD.LIB</Path>
@@ -20456,7 +20456,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100102BD" Crc32="0171217942" LastChange="2017-05-13T19:43:37">Emergency_Stop</Name>
+			<Name Decoration="100102BD" Crc32="0969569495" LastChange="2017-05-21T20:14:45">Emergency_Stop</Name>
 			<PrgInfo>
 				<CodeIndex>1010</CodeIndex>
 				<Symbol>
@@ -20579,7 +20579,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100A9BA2" Crc32="0449706570" LastChange="2017-05-13T15:20:03">Left_Carry</Name>
+			<Name Decoration="100A9BA2" Crc32="3370239459" LastChange="2017-05-21T15:57:03">Left_Carry</Name>
 			<PrgInfo>
 				<CodeIndex>1019</CodeIndex>
 				<Symbol>
@@ -20611,45 +20611,6 @@
 				</Symbol>
 				<Symbol>
 					<Name PrgParameter="Input">Left_Carry.breset1</Name>
-				</Symbol>
-			</PrgInfo>
-		</Program>
-		<Program>
-			<Name Decoration="100BBA55" Crc32="3258359014" LastChange="2017-05-14T10:54:53">Liftin_Feed_1</Name>
-			<PrgInfo>
-				<CodeIndex>1020</CodeIndex>
-				<Symbol>
-					<Name>Liftin_Feed_1.step</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.bak_step</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.rt_hold</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.UP1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.T1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.T2</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.T3</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_1.T5</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_1.bstart1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_1.bhold1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_1.breset1</Name>
 				</Symbol>
 			</PrgInfo>
 		</Program>
@@ -20951,7 +20912,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100BBA98" Crc32="3669152414" LastChange="2017-05-13T15:20:03">Right_Carry_1</Name>
+			<Name Decoration="100BBA98" Crc32="3955438736" LastChange="2017-05-20T21:53:08">Right_Carry_1</Name>
 			<PrgInfo>
 				<CodeIndex>1043</CodeIndex>
 				<Symbol>
@@ -21194,54 +21155,6 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100EDB81" Crc32="3948681276" LastChange="2017-05-19T09:53:36">Liftin_Feed_Left_2</Name>
-			<PrgInfo>
-				<CodeIndex>1022</CodeIndex>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.step</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.bak_step</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.rt_hold</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.UP1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.DOWN1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.T1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.T2</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.T3</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.flag_nostop</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.DownThenUp1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_2.LastHight</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_2.bstart1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_2.bhold1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_2.breset1</Name>
-				</Symbol>
-			</PrgInfo>
-		</Program>
-		<Program>
 			<Name Decoration="100D4F93" Crc32="1983236700" LastChange="2017-05-15T20:49:35">Alarm_Monitoring</Name>
 			<PrgInfo>
 				<CodeIndex>971</CodeIndex>
@@ -21452,7 +21365,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="10195203" Crc32="2557166043" LastChange="2017-05-19T10:51:41">Film_Handel_Pro_1</Name>
+			<Name Decoration="10195203" Crc32="2199442113" LastChange="2017-05-21T11:54:45">Film_Handel_Pro_1</Name>
 			<PrgInfo>
 				<CodeIndex>1012</CodeIndex>
 				<Symbol>
@@ -21569,7 +21482,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100EDB55" Crc32="4229434195" LastChange="2017-05-19T09:05:15">Liftin_Feed_Right_Up</Name>
+			<Name Decoration="100EDB55" Crc32="0036899975" LastChange="2017-05-21T22:04:01">Liftin_Feed_Right_Up</Name>
 			<PrgInfo>
 				<CodeIndex>1026</CodeIndex>
 				<Symbol>
@@ -21617,7 +21530,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100EDBCF" Crc32="4128427597" LastChange="2017-05-19T09:21:12">Liftin_Feed_Right_Down</Name>
+			<Name Decoration="100EDBCF" Crc32="3999572937" LastChange="2017-05-21T22:03:48">Liftin_Feed_Right_Down</Name>
 			<PrgInfo>
 				<CodeIndex>1025</CodeIndex>
 				<Symbol>
@@ -21665,55 +21578,79 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100EC97C" Crc32="3508207665" LastChange="2017-05-19T09:58:05">Liftin_Feed_Left_1</Name>
+			<Name Decoration="10085E5B" Crc32="2660016050" LastChange="2017-05-21T01:25:11">Right_Translation</Name>
 			<PrgInfo>
-				<CodeIndex>1021</CodeIndex>
+				<CodeIndex>1044</CodeIndex>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.step</Name>
+					<Name>Right_Translation.step</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.flag_nostop</Name>
+					<Name>Right_Translation.bak_step</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.flag_nostop_num</Name>
+					<Name>Right_Translation.rt_hold</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.bak_step</Name>
+					<Name>Right_Translation.UP1</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.rt_hold</Name>
+					<Name>Right_Translation.T1</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.UP1</Name>
+					<Name PrgParameter="Input">Right_Translation.bstart1</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.T1</Name>
+					<Name PrgParameter="Input">Right_Translation.bhold1</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Liftin_Feed_Left_1.T2</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_1.CurHeight</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_1.TON1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>Liftin_Feed_Left_1.DownThenUp1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_1.bstart1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_1.bhold1</Name>
-				</Symbol>
-				<Symbol>
-					<Name PrgParameter="Input">Liftin_Feed_Left_1.breset1</Name>
+					<Name PrgParameter="Input">Right_Translation.breset1</Name>
 				</Symbol>
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="100F1A16" Crc32="1243512166" LastChange="2017-05-19T15:01:15">Brd_Run</Name>
+			<Name Decoration="100CD9E5" Crc32="0474391775" LastChange="2017-05-21T16:16:12">Liftin_Feed_1</Name>
+			<PrgInfo>
+				<CodeIndex>1020</CodeIndex>
+				<Symbol>
+					<Name>Liftin_Feed_1.step</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.bak_step</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.rt_hold</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.UP1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.T1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.T2</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.T3</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.T5</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_1.TON100</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_1.bstart1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_1.bhold1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_1.breset1</Name>
+				</Symbol>
+			</PrgInfo>
+		</Program>
+		<Program>
+			<Name Decoration="101039B1" Crc32="2802012372" LastChange="2017-05-21T11:29:28">Brd_Run</Name>
 			<PrgInfo>
 				<CodeIndex>1003</CodeIndex>
 				<Symbol>
@@ -21753,6 +21690,9 @@
 					<Name>Brd_Run.loopTimes</Name>
 				</Symbol>
 				<Symbol>
+					<Name>Brd_Run.TON110</Name>
+				</Symbol>
+				<Symbol>
 					<Name PrgParameter="Input">Brd_Run.bstart1</Name>
 				</Symbol>
 				<Symbol>
@@ -21764,32 +21704,110 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="10085E5B" Crc32="3607442924" LastChange="2017-05-19T15:58:33">Right_Translation</Name>
+			<Name Decoration="1010196F" Crc32="3407114024" LastChange="2017-05-21T22:23:59">Liftin_Feed_Left_2</Name>
 			<PrgInfo>
-				<CodeIndex>1044</CodeIndex>
+				<CodeIndex>1022</CodeIndex>
 				<Symbol>
-					<Name>Right_Translation.step</Name>
+					<Name>Liftin_Feed_Left_2.step</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Right_Translation.bak_step</Name>
+					<Name>Liftin_Feed_Left_2.bak_step</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Right_Translation.rt_hold</Name>
+					<Name>Liftin_Feed_Left_2.rt_hold</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Right_Translation.UP1</Name>
+					<Name>Liftin_Feed_Left_2.UP1</Name>
 				</Symbol>
 				<Symbol>
-					<Name>Right_Translation.T1</Name>
+					<Name>Liftin_Feed_Left_2.DOWN1</Name>
 				</Symbol>
 				<Symbol>
-					<Name PrgParameter="Input">Right_Translation.bstart1</Name>
+					<Name>Liftin_Feed_Left_2.T1</Name>
 				</Symbol>
 				<Symbol>
-					<Name PrgParameter="Input">Right_Translation.bhold1</Name>
+					<Name>Liftin_Feed_Left_2.T2</Name>
 				</Symbol>
 				<Symbol>
-					<Name PrgParameter="Input">Right_Translation.breset1</Name>
+					<Name>Liftin_Feed_Left_2.T3</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_2.flag_nostop</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_2.DownThenUp1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_2.LastHight</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_2.T100</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_2.T101</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_2.bstart1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_2.bhold1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_2.breset1</Name>
+				</Symbol>
+			</PrgInfo>
+		</Program>
+		<Program>
+			<Name Decoration="1010ECB6" Crc32="2935804832" LastChange="2017-05-21T22:02:42">Liftin_Feed_Left_1</Name>
+			<PrgInfo>
+				<CodeIndex>1021</CodeIndex>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.step</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.flag_nostop</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.flag_nostop_num</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.bak_step</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.rt_hold</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.UP1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.T1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.T2</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.CurHeight</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.TON1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.DownThenUp1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.TON150</Name>
+				</Symbol>
+				<Symbol>
+					<Name>Liftin_Feed_Left_1.inBottom</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_1.bstart1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_1.bhold1</Name>
+				</Symbol>
+				<Symbol>
+					<Name PrgParameter="Input">Liftin_Feed_Left_1.breset1</Name>
 				</Symbol>
 			</PrgInfo>
 		</Program>
@@ -23798,83 +23816,6 @@
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.step</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5295</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.bak_step</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5297</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.rt_hold</Name>
-			<Type Decoration="1003051C">R_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5299</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.UP1</Name>
-			<Type Decoration="1003051C">R_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5302</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_1.T1</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5305</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_1.T2</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5320</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.T3</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5335</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.T5</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5350</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.bstart1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5365</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_1.bhold1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5366</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_1.breset1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5367</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
 			<Name TaskPrio="1">New_Table_1.step</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
@@ -24419,104 +24360,6 @@
 			<IGroup>16448</IGroup>
 			<IOffset>116434</IOffset>
 			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.step</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5420</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.bak_step</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5422</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.rt_hold</Name>
-			<Type Decoration="1003051C">R_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5424</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.UP1</Name>
-			<Type Decoration="1003051C">R_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5427</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.DOWN1</Name>
-			<Type Decoration="1003051C">F_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5430</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_Left_2.T1</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5433</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_Left_2.T2</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5448</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.T3</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5463</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.flag_nostop</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5478</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.DownThenUp1</Name>
-			<Type Decoration="1004088A">DownThenUp</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>116478</IOffset>
-			<BitSize>40</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.LastHight</Name>
-			<Type>LREAL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>116490</IOffset>
-			<BitSize>64</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.bstart1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5479</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_2.bhold1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5480</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_Left_2.breset1</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5481</IOffset>
-			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
 			<Name TaskPrio="1">Alarm_Monitoring.T1</Name>
@@ -25338,101 +25181,143 @@
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.step</Name>
+			<Name TaskPrio="1">Right_Translation.step</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5368</IOffset>
+			<IOffset>6024</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.flag_nostop</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5370</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.flag_nostop_num</Name>
+			<Name TaskPrio="1">Right_Translation.bak_step</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>115518</IOffset>
+			<IOffset>6026</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.bak_step</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5371</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.rt_hold</Name>
+			<Name TaskPrio="1">Right_Translation.rt_hold</Name>
 			<Type Decoration="1003051C">R_TRIG</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5373</IOffset>
+			<IOffset>6028</IOffset>
 			<BitSize>24</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.UP1</Name>
+			<Name TaskPrio="1">Right_Translation.UP1</Name>
 			<Type Decoration="1003051C">R_TRIG</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5376</IOffset>
+			<IOffset>6031</IOffset>
 			<BitSize>24</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name>Liftin_Feed_Left_1.T1</Name>
+			<Name TaskPrio="1">Right_Translation.T1</Name>
 			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5379</IOffset>
+			<IOffset>6034</IOffset>
 			<BitSize>120</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name>Liftin_Feed_Left_1.T2</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5394</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>Liftin_Feed_Left_1.CurHeight</Name>
-			<Type>LREAL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>5409</IOffset>
-			<BitSize>64</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.TON1</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>116437</IOffset>
-			<BitSize>120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.DownThenUp1</Name>
-			<Type Decoration="1004088A">DownThenUp</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>116473</IOffset>
-			<BitSize>40</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.bstart1</Name>
+			<Name TaskPrio="1">Right_Translation.bstart1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5417</IOffset>
+			<IOffset>6049</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Liftin_Feed_Left_1.bhold1</Name>
+			<Name TaskPrio="1">Right_Translation.bhold1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5418</IOffset>
+			<IOffset>6050</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name>Liftin_Feed_Left_1.breset1</Name>
+			<Name>Right_Translation.breset1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>5419</IOffset>
+			<IOffset>6051</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.step</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5295</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.bak_step</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5297</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.rt_hold</Name>
+			<Type Decoration="1003051C">R_TRIG</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5299</IOffset>
+			<BitSize>24</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.UP1</Name>
+			<Type Decoration="1003051C">R_TRIG</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5302</IOffset>
+			<BitSize>24</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_1.T1</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5305</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_1.T2</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5320</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.T3</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5335</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.T5</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5350</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.TON100</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116750</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.bstart1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5365</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_1.bhold1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5366</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_1.breset1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5367</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
@@ -25520,6 +25405,13 @@
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
+			<Name TaskPrio="1">Brd_Run.TON110</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116781</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
 			<Name TaskPrio="1">Brd_Run.bstart1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
@@ -25541,59 +25433,227 @@
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.step</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.step</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6024</IOffset>
+			<IOffset>5420</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.bak_step</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.bak_step</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6026</IOffset>
+			<IOffset>5422</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.rt_hold</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.rt_hold</Name>
 			<Type Decoration="1003051C">R_TRIG</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6028</IOffset>
+			<IOffset>5424</IOffset>
 			<BitSize>24</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.UP1</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.UP1</Name>
 			<Type Decoration="1003051C">R_TRIG</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6031</IOffset>
+			<IOffset>5427</IOffset>
 			<BitSize>24</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.T1</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.DOWN1</Name>
+			<Type Decoration="1003051C">F_TRIG</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5430</IOffset>
+			<BitSize>24</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.T1</Name>
 			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6034</IOffset>
+			<IOffset>5433</IOffset>
 			<BitSize>120</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.bstart1</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.T2</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5448</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.T3</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5463</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.flag_nostop</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6049</IOffset>
+			<IOffset>5478</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="1">Right_Translation.bhold1</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.DownThenUp1</Name>
+			<Type Decoration="1004088A">DownThenUp</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116478</IOffset>
+			<BitSize>40</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.LastHight</Name>
+			<Type>LREAL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116490</IOffset>
+			<BitSize>64</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.T100</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116796</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.T101</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116811</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.bstart1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6050</IOffset>
+			<IOffset>5479</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name>Right_Translation.breset1</Name>
+			<Name TaskPrio="1">Liftin_Feed_Left_2.bhold1</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>6051</IOffset>
+			<IOffset>5480</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_Left_2.breset1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5481</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.step</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5368</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.flag_nostop</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5370</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.flag_nostop_num</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>115518</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.bak_step</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5371</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.rt_hold</Name>
+			<Type Decoration="1003051C">R_TRIG</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5373</IOffset>
+			<BitSize>24</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.UP1</Name>
+			<Type Decoration="1003051C">R_TRIG</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5376</IOffset>
+			<BitSize>24</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_Left_1.T1</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5379</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_Left_1.T2</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5394</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_Left_1.CurHeight</Name>
+			<Type>LREAL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5409</IOffset>
+			<BitSize>64</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.TON1</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116437</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.DownThenUp1</Name>
+			<Type Decoration="1004088A">DownThenUp</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116473</IOffset>
+			<BitSize>40</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.TON150</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116766</IOffset>
+			<BitSize>120</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.inBottom</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>115523</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.bstart1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5417</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">Liftin_Feed_Left_1.bhold1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5418</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>Liftin_Feed_Left_1.breset1</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>5419</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
@@ -27343,6 +27403,13 @@
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
 			<IOffset>115522</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">.Liftin_LastOne</Name>
+			<Type>BOOL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>116765</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
@@ -32591,6 +32658,16 @@
 			<BitSize>64</BitSize>
 		</Symbol>
 		<Symbol>
+			<Name Persistent="1" TaskPrio="1">.A4_W5_1</Name>
+			<Type>LREAL</Type>
+			<Comment>
+				<![CDATA[撕膜联动X位置]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>116742</IOffset>
+			<BitSize>64</BitSize>
+		</Symbol>
+		<Symbol>
 			<Name Persistent="1">.A4_W6</Name>
 			<Type>LREAL</Type>
 			<Comment>
@@ -35311,7 +35388,7 @@
 			<BitSize>1</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Static="Input">.X2_8</Name>
+			<Name Static="Input" TaskPrio="1">.X2_8</Name>
 			<Type>BOOL</Type>
 			<Comment>
 				<![CDATA[撕膜电机吸产品负压表]]>
